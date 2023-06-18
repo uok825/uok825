@@ -1,6 +1,18 @@
 # 💫 About Me:
 Hi, I'm Utku Ömer Kılıç. <br>As a student of Istanbul Technical University studying Environmental Engineering with a strong interest in software and blockchain development,<br> I am seeking opportunities to leverage my skills and knowledge to contribute to innovative projects in the field.
 
+## My Experience:
+# [Avalanche ReFi Hackathon](https://www.akbanklab.com/en/akbank-refi-hackathon?state=0#section-8)
+
+A member of the winning team in the "Yerel Etki" project at the Avalanche ReFi Hackathon, representing team Chainway.
+
+# [ScaffoldETH-v2 Hackathon](https://hackathon.buidlguidl.com/)
+
+Creator of the [P2P NFT Lending and Borrowing](https://github.com/uok825/p2p-nft-lending) project, but not a winner project :(
+
+# [LeadingPrivacy’s ETH Privacy Istanbul Hackathon](https://www.leadingprivacy.com/istanbul)
+
+A member of the winning team on the ZKSync Account Abstraction track in the “[WillWallet](https://github.com/itublockchain/will-wallet-leading-privacy)” project at the ETH Privacy Hackathon, representing team ITU Blockchain.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/utkuomer.eth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utku-%C3%B6mer-k%C4%B1l%C4%B1%C3%A7-8403761b2/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/utmrklc) 
@@ -15,14 +27,9 @@ Hi, I'm Utku Ömer Kılıç. <br>As a student of Istanbul Technical University s
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=uok825&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=utmrklc)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=uok825&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=uok825&icon=0&color=1)](https://visitcount.itsvg.in)
