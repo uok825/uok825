@@ -14,6 +14,10 @@ Creator of the [P2P NFT Lending and Borrowing](https://github.com/uok825/p2p-nft
 
 A member of the winning team on the ZKSync Account Abstraction track in the “[WillWallet](https://github.com/itublockchain/will-wallet-leading-privacy)” project at the ETH Privacy Hackathon, representing team ITU Blockchain.
 
+### [ETHGlobal HackFS2023](https://ethglobal.com/events/hackfs2023)
+
+A member of the "[subpr0br](https://www.ethglobal.com/showcase/subpr0br-ohvbo) team which is Finalist and selected for 2 best use bounties. Represtening me and my partner.
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/utkuomer.eth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utku-%C3%B6mer-k%C4%B1l%C4%B1%C3%A7-8403761b2/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/utmrklc) 
 
